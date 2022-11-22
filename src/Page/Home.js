@@ -43,6 +43,8 @@ function Home() {
                         <img src={logotwo} className="imgtwo"></img>
                     </div>
                     <button className='btnView'>View Portfolio</button>
+
+                    <p></p>
                     
                     < PageOne />
 
